@@ -45,6 +45,9 @@
         <button type="submit" class="btn btn-outline-dark">Enviar</button>
         <div id="register">
             <a href="register.jsp">Registrate</a>
+            <a href="category.jsp">Registrar Categoria</a>
+            <a href="Login">afasfas</a>
+            <a href="Producto.jsp">Registrar PROD</a>
         </div>
         <p class="mt-3 mb-3 text-muted">Todos los derechos reservados MY APP <%=displayDate()%></p>
 
